@@ -1,6 +1,7 @@
 # post-notion
 
-- [ ] Medium api
-- [ ] Notion api
+- [ ] Medium API
+- [ ] Notion API
 - [x] Gatsby plugin
 - [ ] GraphQL
+- [ ] Github API
